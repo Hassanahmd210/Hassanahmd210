@@ -24,7 +24,7 @@ I'm currently seeking **internship/full-time opportunities** in **Software Devel
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassanahmad210&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassanahmd210&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanahmd210&layout=compact&theme=tokyonight)
 
