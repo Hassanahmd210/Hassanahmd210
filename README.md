@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hassan Ahmad Sayyad!
 
-🎓 Final Year Computer Science Student | 💻 Aspiring Software Developer | 📍 Nagpur, India
+🎓 Final Year Computer Science Student | 💻 Aspiring Software Developer | 📍 India
 
 ---
 
